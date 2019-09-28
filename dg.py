@@ -1,6 +1,6 @@
 import random
 import curses
-# testing git
+
 #initialize
 screen=curses.initscr()
 curses.curs_set(0)
